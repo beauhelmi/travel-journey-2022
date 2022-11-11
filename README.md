@@ -49,7 +49,6 @@ This project created with [ViteJS](https://github.com/vitejs/vite/tree/main/pack
 ### What I learned
 
 - Learned about props and mapping, and trying to figure out how to deploy site
-```
 
 ## Author
 
@@ -60,7 +59,5 @@ This project created with [ViteJS](https://github.com/vitejs/vite/tree/main/pack
  - [Jethrosweb](https://github.com/topics/travel-journal)
  - [Scrimba Projects](https://www.figma.com/file/QG4cOExkdbIbhSfWJhs2gs/Travel-Journal?node-id=0%3A1)
  - [Figma Design](https://scrimba.com/learn/learnreact/react-section-2-solo-project-co74f46f2b22693c5ea577559)
-
-
 
 
