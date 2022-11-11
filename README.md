@@ -50,10 +50,13 @@ This project created with [ViteJS](https://github.com/vitejs/vite/tree/main/pack
 
 - Learned about props and mapping, and trying to figure out how to deploy site :
 
-```Deploying site 
-creating a .github/workflows/deploy.yml
+- Deploying site 
+- Create 
 ```
-```Inside deploy.yml
+.github/workflows/deploy.yml
+```
+- Inside deploy.yml
+```
 name: Deploy
 
 on:
@@ -107,7 +110,8 @@ jobs:
           publish_dir: ./dist
 ```
 
-```Updating vite.config.js
+- Updating vite.config.js
+```
  base: '/travel-journey-2022/',
 ```
 - Due changes, solving the Img not displaying issues
