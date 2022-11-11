@@ -115,12 +115,13 @@ jobs:
 
 ## Author
 
-- Website - [Emanuele Del Monte](https://www.emanueledelmonte.it)
+- Website - [beau helmi](https://github.com/beauhelmi)
 
 ## Acknowledgements
 
  - [Jethrosweb](https://github.com/topics/travel-journal)
  - [Scrimba Projects](https://www.figma.com/file/QG4cOExkdbIbhSfWJhs2gs/Travel-Journal?node-id=0%3A1)
  - [Figma Design](https://scrimba.com/learn/learnreact/react-section-2-solo-project-co74f46f2b22693c5ea577559)
+ - [xdelmo](https://github.com/xdelmo/travel-journal)
 
 
